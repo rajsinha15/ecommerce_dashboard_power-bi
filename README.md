@@ -1,2 +1,13 @@
-# ecommerce_dashboard_power-bi
-E-Commerce Sales Dashboard (Power BI) An interactive dashboard built using Microsoft Power BI to analyze e-commerce data. It provides insights into average discounts, price trends, category-wise performance, and payment method analysis to support data-driven decision-making.
+📊 Project Overview
+This project is a Power BI dashboard created to analyze e-commerce sales performance using key metrics like pricing, discounts, and customer payment behavior.
+📈 Key Insights
+Average Discount (%) by Category
+Max Final Price by Category
+Monthly Price Trends
+Payment Method-wise Average Price
+🛠️ Tools Used
+Power BI
+Data Visualization
+Data Analysis
+🎯 Purpose
+To identify trends, compare categories, and understand customer purchasing patterns
